@@ -1,3 +1,41 @@
+### Option 2: `README.md` for Adventura Demo (Showcase / Sandbox Version)
+
+```markdown
+# Adventura Demo 
+
+> A lightweight, feature-preview showcase and staging environment for the Adventura Travels ecosystem, highlighting core UI/UX workflows and proof-of-concept features.
+
+---
+
+## 🚀 Live Demo & Overview
+* **Live Preview:** [Insert Deployed Demo URL Here]
+* **Purpose:** Built as an interactive sandbox to demonstrate responsive design components, travel filtering logic, and client-side performance before production integration.
+
+---
+
+## 🛠️ Tech Stack
+* **Framework:** React / Next.js (or HTML/CSS/JS if it's a static demo)
+* **Styling:** Tailwind CSS / Styled Components
+* **State Management:** React Hooks / Context API
+* **Deployment:** Vercel / Netlify
+
+---
+
+## ✨ Highlighted Demo Features
+* **Interactive Component Showcase:** Fully responsive UI elements mimicking live travel booking workflows.
+* **Mock Data Integration:** Dynamic rendering of sample destinations, pricing cards, and user reviews.
+* **Optimized Performance:** Clean component architecture built for speed and minimal bundle size.
+
+---
+
+## ⚙️ Quick Start Guide
+
+To run this demo locally:
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/your-username/adventura-demo.git](https://github.com/your-username/adventura-demo.git)
+   cd adventura-demo
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
